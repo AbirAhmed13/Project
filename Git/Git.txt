@@ -1,0 +1,25 @@
+Git Status
+git init
+git add .
+git commit -m "init commmit"
+git config --global user.name "name"
+git config --global user.email "email"
+git log
+git diff
+git add . 
+git commit -m "comit2"
+git checkout master^
+git push origin master
+
+
+
+
+#Final commands before closing laptop and sleeping
+git add .
+git commit -m "msg"
+git push origin master
+
+
+#Working on other's file
+git pull "link"
+
